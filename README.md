@@ -78,3 +78,12 @@ I enjoy building projects that solve real-world problems and continuously improv
 ---
 
 ⭐ Feel free to explore my repositories and connect with me!
+
+
+
+
+
+![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohith723&show_icons=true)
+
+
+
