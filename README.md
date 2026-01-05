@@ -26,9 +26,9 @@ I enjoy building projects that solve real-world problems and continuously improv
 - Visual Studio
 
 ### 🗄️ Databases
+- Microsoft SQL Server
 - MySQL (basic)
 
----
 
 ## 📌 Featured Projects
 
