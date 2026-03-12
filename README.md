@@ -107,12 +107,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Rohith723/Rohith723/output/github-contribution-grid-snake.svg"/>
-</p>
-
 # 🔥 GitHub Streak
 
 <p align="center">
