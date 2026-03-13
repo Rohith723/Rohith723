@@ -28,7 +28,6 @@
 * C#
 * JavaScript
 * SQL
-* Java
 
 ### ⚙️ Frameworks & Technologies
 
